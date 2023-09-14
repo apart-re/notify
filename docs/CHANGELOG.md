@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.0.1](https://github.com/apart-re/notify/compare/v1.0.0...v1.0.1) (2023-09-14)
+
+
+### 🐛 Bug Fixes
+
+* **index:** export interfaces and enums ([bca4371](https://github.com/apart-re/notify/commit/bca437162f422323b0b48302b2614e62de72253c))
+
 ## 1.0.0 (2023-09-13)
 
 
