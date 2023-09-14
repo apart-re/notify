@@ -6,7 +6,7 @@ import {
   CONSUMER_TOPIC_PREFIX,
   PROVIDER,
 } from "./config";
-import ProvidersEnum from "./enums/ProvidersEnum";
+import { ProvidersEnum } from "./enums/ProvidersEnum";
 import { ConsumerConfig } from "./interfaces/ConsumerConfig";
 import { KafkaConsumer, ServiceBusConsumer } from "./providers";
 
